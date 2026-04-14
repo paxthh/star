@@ -1,0 +1,15 @@
+{
+  "api_id": 21752358,
+  "api_hash": "fb46a136fed4a4de27ab057c7027fec3",
+  "bot_token": "8764978241:AAEbMA_XGrleT20B19z8uGkxbnm6u05IsuI",
+  "owner_id": 1899208318,
+
+  "post_link": "",
+  "groups": [],
+  "interval_min": 5,
+  "delay_sec": 3,
+  "is_running": false,
+  "total_sent": 0,
+  "session_name": "ads_account",
+  "stats": []
+}
